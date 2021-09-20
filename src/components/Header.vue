@@ -9,14 +9,7 @@
   </nav>
 </template>
 
-<script>
-  export default{
-
-  }
-</script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style  lang="scss">
+<style  lang="scss" scoped>
   nav{
     width:100%;
     max-width: 1234px;
@@ -41,7 +34,7 @@
         border-width: 0 1px 1px 0;
         display: inline-block;
         padding: 3px;
-        margin-left: 1em;
+        margin-left: 0.5em;
       }
       .down {
         transform: rotate(45deg);

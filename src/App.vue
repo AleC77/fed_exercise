@@ -23,10 +23,12 @@
 <style>
 @font-face {
   font-family: 'Avenir';
-  src: url('/assets/fonts/Avenir.eot?#iefix') format('embedded-opentype'),
-  url('/assets/fonts/Avenir.woff') format('woff'),
-  url('/assets/fonts/Avenir.woff2') format('woff2'),
-  url('/assets/fonts/Avenir.ttf')  format('truetype');
+  src: url('/assets/fonts/aveni_ff/Avenir.eot?#iefix') format('embedded-opentype'),
+  url('/assets/fonts/aveni_ff/Avenir.woff') format('woff'),
+  url('/assets/fonts/aveni_ff/Avenir.woff2') format('woff2'),
+  url('/assets/fonts/aveni_ff/Avenir.ttf')  format('truetype');
+  font-family: 'Linotype Univers';
+  src: url('/assets/fonts/linotypeunivers-basicregular.eot?#iefix') format('embedded-opentype');
 }
   *{
       box-sizing:border-box;
