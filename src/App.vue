@@ -21,8 +21,21 @@
 </script>
 
 <style>
+@font-face {
+  font-family: 'Avenir';
+  src: url('/assets/fonts/Avenir.eot?#iefix') format('embedded-opentype'),
+  url('/assets/fonts/Avenir.woff') format('woff'),
+  url('/assets/fonts/Avenir.woff2') format('woff2'),
+  url('/assets/fonts/Avenir.ttf')  format('truetype');
+}
   *{
       box-sizing:border-box;
-      margin:0;
+      margin: 0 auto;
+  }
+  div {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    margin: 0 auto;
+    background-color:#fff;
   }
 </style>
