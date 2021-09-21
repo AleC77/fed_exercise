@@ -35,9 +35,11 @@
       margin: 0 auto;
   }
   div {
+    width:100%;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
     background-color:#fff;
   }
 </style>
