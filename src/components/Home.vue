@@ -13,7 +13,7 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    background: #f9f8f8 url('../assets/man.png') no-repeat 80% top;
+    background: #fff url('../assets/man.png') no-repeat 80% top;
     div.mainTitle{
       height: 488px;
       width: 100%;
